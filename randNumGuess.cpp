@@ -1,7 +1,7 @@
 // Copyright (c) 2019 St. Mother Teresa HS All rights reserved.
 //
 // Created by: Layla Michel
-// Created on: May 10, 2021
+// Created on: May 11, 2021
 // This program asks the user to input a number between 0 and 9,
 // generates a random number and displays a message depending
 // on if the guess is the same as the random number or not
