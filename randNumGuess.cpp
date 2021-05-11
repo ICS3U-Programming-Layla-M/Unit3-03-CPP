@@ -26,7 +26,7 @@ int main() {
     // check if guess is correct and display message
     // depending on if it's right or wrong
     if (number == correct_guess) {
-        std::cout << "You guessed correctly!";
+        std::cout << "You guessed correctly!\n";
     } else {
         std::cout << "You guessed wrong. The correct answer was: "
         << correct_guess << "\n";
